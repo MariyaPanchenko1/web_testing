@@ -1,6 +1,6 @@
-# Web site testing 
+# Тестирование сайта https://demo.guru99.com/telecom/
 
-Тестирование сайта https://demo.guru99.com/telecom/
+
 Подготовлена документация: 
 
  <ul>
@@ -8,9 +8,9 @@
 <li>  <a href="https://drive.google.com/drive/folders/1WQ8-a3k2Y6QstIEXbSgbU7SAQWVvQ-Ws?usp=sharing"> Примеры баг-репортов </a> при тестировании главной страницы сайта и функциональности Add Customer. </li>
 </ul>
 
-# Web shop testing 
+# Тестирование онтайн-магазина https://demowebshop.tricentis.com/ 
 
-Тестирование онтайн-магазина https://demowebshop.tricentis.com/
+
 Подготовлена документация: 
 
  <ul>
