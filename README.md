@@ -8,7 +8,7 @@
 <li>  <a href="https://drive.google.com/drive/folders/1WQ8-a3k2Y6QstIEXbSgbU7SAQWVvQ-Ws?usp=sharing"> Примеры баг-репортов </a> при тестировании главной страницы сайта и функциональности Add Customer. </li>
 </ul>
 
-# Тестирование онтайн-магазина https://demowebshop.tricentis.com/ 
+# Тестирование онлайн-магазина https://demowebshop.tricentis.com/ 
 
 
 Подготовлена документация: 
